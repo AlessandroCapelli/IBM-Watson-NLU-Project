@@ -3,6 +3,6 @@ applications:
 - path: .
   name: alessandro-d9d-sentiment-analyzer
   buildpack: sdk-for-nodejs
-  memory: 256M
+  memory: 128M
   instances: 1
   random-route: true
